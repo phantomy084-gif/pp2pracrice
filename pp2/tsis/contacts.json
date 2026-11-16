@@ -1,0 +1,110 @@
+[
+    {
+        "first_name": "John",
+        "email": "john@gmail.com",
+        "birthday": "2004-07-20",
+        "group": "Friend",
+        "phones": [
+            {
+                "phone": "+77015555555",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "Alice",
+        "email": "alice@gmail.com",
+        "birthday": "2003-05-15",
+        "group": "Family",
+        "phones": [
+            {
+                "phone": "+77021234567",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "Bob",
+        "email": "bob@company.com",
+        "birthday": "2002-11-10",
+        "group": "Work",
+        "phones": [
+            {
+                "phone": "+77031234567",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "David",
+        "email": null,
+        "birthday": null,
+        "group": null,
+        "phones": [
+            {
+                "phone": "+77041234567",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "Zhasulan",
+        "email": null,
+        "birthday": null,
+        "group": null,
+        "phones": [
+            {
+                "phone": "+77051234567",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "Ayara",
+        "email": null,
+        "birthday": null,
+        "group": null,
+        "phones": [
+            {
+                "phone": "+77771549779",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "aidos",
+        "email": null,
+        "birthday": null,
+        "group": null,
+        "phones": [
+            {
+                "phone": "+123213333",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "ali",
+        "email": null,
+        "birthday": null,
+        "group": null,
+        "phones": [
+            {
+                "phone": "+77777777777",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "Mike",
+        "email": null,
+        "birthday": null,
+        "group": null,
+        "phones": [
+            {
+                "phone": "+77019876543",
+                "type": "mobile"
+            }
+        ]
+    }
+]
